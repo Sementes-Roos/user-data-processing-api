@@ -102,3 +102,7 @@ O projeto deverá conter um `README.md` com:
 - Como executar a aplicação localmente
 - Como testar os endpoints
 - Exemplos de requisições (ex: via cURL ou Postman)
+
+## Entrega
+
+Após a conclusão do desenvolvimento, envie o **link da fork** deste repositório com a sua implementação para avaliação.
