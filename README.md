@@ -77,7 +77,7 @@ Endpoints esperados:
 - Todos os arquivos da API deverão estar dentro do diretório `api`;
 - Não é necessária autenticação de usuário;
 - A nomenclatura dos endpoints fica a critério do desenvolvedor, porém deve ser devidamente documentada;
-- A aplicação deverá conter instruções claras para execução local do projeto.
+- A aplicação deverá conter instruções claras para execução local do projeto, sendo recomendado a utilizar Docker para melhor controle do ambiente.
 
 ---
 
