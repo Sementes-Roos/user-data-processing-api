@@ -27,7 +27,7 @@ O objetivo do projeto é desenvolver uma **REST API** capaz de:
 
 ### 1. Recebimento do arquivo `.json`
 
-- O arquivo `.json` deverá ser enviado por meio de uma **URL**, utilizando `form-data`;
+- O arquivo `mock-data.json` deverá ser enviado utilizando `form-data`;
 - Após o recebimento, a API deverá:
   - Processar seu conteúdo;
   - Armazenar todos os usuários no banco de dados.
