@@ -105,4 +105,8 @@ O projeto deverá conter um `README.md` com:
 
 ## Entrega
 
-Após a conclusão do desenvolvimento, envie o **link da fork** deste repositório com a sua implementação para avaliação.
+1. Clique no botão **"Use this template"** no topo deste repositório e crie um **repositório privado** com o projeto.
+2. Após a conclusão do desenvolvimento, adicione o usuário **`LucasESchuster`** como colaborador do seu repositório (Settings → Collaborators → Add people).
+3. Envie o **link do seu repositório** para avaliação.
+
+> ⚠️ **Importante:** Não faça um fork deste repositório. Utilize o botão "Use this template" para garantir que seu código fique privado e não seja visível para outros candidatos.
